@@ -19,3 +19,11 @@ Now launch the application class com.rcmcode.countryservice.CountryServiceApplic
 http://localhost:8081/country-app/countries
 
 http://localhost:8081/country-app/countries/<name>
+  
+  
+  ## To Rub directly in your system
+  
+  Download the conuntryServiceBack-0.0.1-SNAPSHOT.jar file 
+  Open notepad and write "java -jar conuntryServiceBack-0.0.1-SNAPSHOT.jar" and save it with ".bat" extention in the same directory 
+  Run the jar file
+  Go to to http://localhost:8081/country-app/countries to check the functionalities
