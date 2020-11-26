@@ -27,7 +27,7 @@ http://localhost:8081/country-app/countries
 http://localhost:8081/country-app/countries/<name>
   
   
-  ## To rub directly in your system with executable jar file
+  ## To run directly in your system with executable jar file
   
   Download the "conuntryServiceBack-0.0.1-SNAPSHOT.jar" file from the repo directory.
   
