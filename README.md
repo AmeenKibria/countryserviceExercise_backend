@@ -36,3 +36,5 @@ http://localhost:8081/country-app/countries/<name>
   Run the jar file.
   
   Go to to http://localhost:8081/country-app/countries to check the functionalities
+
+This is from the browser with VS-code 
